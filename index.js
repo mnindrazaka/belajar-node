@@ -6,6 +6,6 @@ console.log("Hello Farhan");
 
 console.log("coba coba coba");
 
-console.log("transaction");
+console.log("transaction 1");
 
 console.log("transaction 2");
